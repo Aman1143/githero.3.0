@@ -1,0 +1,5 @@
+No, git will not stop tracking an already tracked file just because it is added to the .gitignore file.
+
+The purpose of the .gitignore file is to tell git to ignore untracked files or directories that match a certain pattern. If a file is already tracked, git will continue to track it regardless of whether or not it is in the .gitignore file.
+
+So if you add an already tracked file to the .gitignore file, git will simply ignore any new untracked files that match the pattern, but it will not affect the tracking of the already tracked file.
