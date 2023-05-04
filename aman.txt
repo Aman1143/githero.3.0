@@ -2,3 +2,5 @@
  Roll no.:      IEC2022063
  college name:  IIIT ALLAHABAD
  email:         iec2022063@iiita.ac.in
+
+ hobbies: playing volleyball, watching movies, travelling. 
